@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Otici kod zubara",
+      "day": "August 5th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Vjezbati programiranje",
+      "day": "August 6th at 8:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Provodati tanga",
+      "day": "Monday",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
